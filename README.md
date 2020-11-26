@@ -5,16 +5,22 @@ Build text bot that when you text it it will return specific material. It will a
 
 ## User Text Commands
 1. Weather
-   1. WEATHER 
-   2. WEATHER 10DAY
-   3. WEATHER TODAY
-   4. WEATHER TOMORROW
+   * WEATHER 
+   * WEATHER 10DAY
+   * WEATHER TODAY
+   * WEATHER TOMORROW
 2. Poems
-   1. POEM
+   * POEM
 3. Words of Affirmation
-   1. AFFIRMATION
+   * AFFIRMATION
 4. Top news headlines with links to NY Times
-   1. NEWS
+   * NEWS
+5. Phish (sends random jam as audio or link to phish.in)
+   * PHISH
+   * PHISH YEAR
+   * PHISH PHOTO
+6. Reminders
+   * SET REMINDER
 
 ## Technology
 * Server - Raspberry Pi
@@ -24,3 +30,8 @@ Build text bot that when you text it it will return specific material. It will a
 * Orchestration - Airflow
 * Telegram (API)
   * [Link to bots info](https://core.telegram.org/bots)
+
+
+## To use the bot
+1. Download [Telegram](https://telegram.org/)
+2. Under chats, search for `@mungbean_bot` and hit Start
