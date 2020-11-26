@@ -1,4 +1,4 @@
-# The Munbean Assistant
+# The Mungbean Assistant
 
 ## Idea
 Build text bot that when you text it it will return specific material. It will also send automated texts to you!
