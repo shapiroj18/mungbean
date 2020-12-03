@@ -21,6 +21,8 @@ Build text bot that when you text it it will return specific material. It will a
    * PHISH PHOTO
 6. Reminders
    * SET REMINDER
+7. Scraping
+   1. COVID TIMES (messages you when new rapid test times are available)
 
 ## Technology
 * Server - Raspberry Pi
